@@ -1,0 +1,1 @@
+export { SidePinsContainer } from './SidePinsContainer';
