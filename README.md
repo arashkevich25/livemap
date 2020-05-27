@@ -17,3 +17,4 @@
 2. Run application by serve (`npm install -g serve`)
 `npm run build && serve -s build`
    
+3. Open `localhost:5000`
